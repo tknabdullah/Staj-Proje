@@ -79,12 +79,7 @@ src/
 └── index.css            # Global stiller
 ```
 
-## 🔧 Özelleştirme
 
-- **Renkler**: `src/index.css` dosyasındaki CSS değişkenlerini düzenleyin
-- **Validasyon**: `src/components/MeetingForm.tsx` dosyasındaki validasyon kurallarını değiştirin
-- **Stil**: Bileşenlerdeki inline stilleri veya CSS sınıflarını özelleştirin
-
-## 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
+
